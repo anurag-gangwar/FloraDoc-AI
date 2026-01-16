@@ -1,0 +1,7 @@
+{
+  "name": "FloraDoc AI",
+  "description": "An advanced plant health diagnostic tool that uses AI to detect diseases, provide treatment solutions, and offer expert care tips through image analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
